@@ -1,0 +1,15 @@
+
+# Do not track python cache files.
+*.pyc
+
+
+# Do not track local environment settings.
+.venv/
+.vscode/
+.idea/
+
+
+# Do not track local environment logs.
+*.log
+
+resources/ldap_config.py
